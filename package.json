@@ -1,0 +1,1 @@
+{"dependencies":{"ws":"^8.23.0"},"description":"Personal WebRTC signaling server: one broadcaster (phone screen share), any number of viewers. Relays SDP/ICE only — no media passes through.","engines":{"node":">=18"},"main":"server.js","name":"orbitx-stream-signal","scripts":{"start":"node server.js"},"version":"1.0.0"}
